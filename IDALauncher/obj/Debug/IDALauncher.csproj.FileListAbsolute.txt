@@ -1,0 +1,39 @@
+D:\Academic\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.exe.config
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csprojResolveAssemblyReference.cache
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Form1.resources
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Properties.Resources.resources
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.GenerateResource.Cache
+D:\Academic\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.exe
+D:\Academic\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.pdb
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.exe
+D:\Academic\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.pdb
+D:\Academic\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.exe.config
+D:\Academic\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.exe
+D:\Academic\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.pdb
+G:\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.exe.config
+G:\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.exe
+G:\PhD thesis\OpenSees model\frame\3MHPin\deter-1\IDALauncher.pdb
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csprojResolveAssemblyReference.cache
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Form1.resources
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Properties.Resources.resources
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.GenerateResource.Cache
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\Hunt-Fill-IDA.exe
+G:\OpenSees\IDALauncher\IDALauncher\obj\Debug\Hunt-Fill-IDA.pdb
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csprojAssemblyReference.cache
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Form1.resources
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Properties.Resources.resources
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.GenerateResource.cache
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.CoreCompileInputs.cache
+F:\Heidari\Frame with Dist. Plasticity - with panel zone\15-st-fiber\IDALauncher.exe.config
+F:\Heidari\Frame with Dist. Plasticity - with panel zone\15-st-fiber\IDALauncher.exe
+F:\Heidari\Frame with Dist. Plasticity - with panel zone\15-st-fiber\IDALauncher.pdb
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.exe
+E:\OpenSees\IDALauncher\IDALauncher\obj\Debug\IDALauncher.pdb
+E:\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.exe.config
+E:\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.exe
+E:\OpenSees\IDALauncher\IDALauncher\bin\Debug\IDALauncher.pdb
+E:\OpenSees\IDALauncher\IDALauncher\bin\Debug\Utilities.dll
+E:\OpenSees\IDALauncher\IDALauncher\bin\Debug\Utilities.pdb
+E:\OpenSees\IDALauncher\bin\Debug\IDALauncher.exe.config
+E:\OpenSees\IDALauncher\bin\Debug\IDALauncher.exe
+E:\OpenSees\IDALauncher\bin\Debug\IDALauncher.pdb

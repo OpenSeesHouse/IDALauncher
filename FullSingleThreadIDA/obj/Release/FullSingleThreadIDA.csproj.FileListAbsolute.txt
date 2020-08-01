@@ -1,0 +1,10 @@
+E:\OpenSees\IDALauncher\IDALauncher\bin\Release\FullSingleThreadIDA.exe.config
+E:\OpenSees\IDALauncher\IDALauncher\bin\Release\FullSingleThreadIDA.exe
+E:\OpenSees\IDALauncher\IDALauncher\bin\Release\FullSingleThreadIDA.pdb
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\FullSingleThreadIDA.csprojAssemblyReference.cache
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\IDALauncher.Form1.resources
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\IDALauncher.Properties.Resources.resources
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\FullSingleThreadIDA.csproj.GenerateResource.cache
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\FullSingleThreadIDA.csproj.CoreCompileInputs.cache
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\FullSingleThreadIDA.exe
+E:\OpenSees\IDALauncher\IDALauncher\obj\Release\FullSingleThreadIDA.pdb
