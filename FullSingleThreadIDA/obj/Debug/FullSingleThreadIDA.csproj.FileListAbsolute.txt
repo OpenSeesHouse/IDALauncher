@@ -14,3 +14,12 @@ E:\OpenSees\IDALauncher\bin\$Platform\$configuration\FullSingleThreadIDA.pdb
 E:\OpenSees\IDALauncher\bin\Debug\FullSingleThreadIDA.exe.config
 E:\OpenSees\IDALauncher\bin\Debug\FullSingleThreadIDA.exe
 E:\OpenSees\IDALauncher\bin\Debug\FullSingleThreadIDA.pdb
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\FullSingleThreadIDA.csprojAssemblyReference.cache
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\IDALauncher.Form1.resources
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\IDALauncher.Properties.Resources.resources
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\FullSingleThreadIDA.csproj.GenerateResource.cache
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\FullSingleThreadIDA.exe
+D:\programming\IDALauncher\FullSingleThreadIDA\obj\Debug\FullSingleThreadIDA.pdb
+D:\programming\IDALauncher\bin\Debug\FullSingleThreadIDA.exe.config
+D:\programming\IDALauncher\bin\Debug\FullSingleThreadIDA.exe
+D:\programming\IDALauncher\bin\Debug\FullSingleThreadIDA.pdb
