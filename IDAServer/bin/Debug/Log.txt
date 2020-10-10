@@ -1,0 +1,1123 @@
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 14:59:08
+Server Started:
+
+06/19/2016 14:59:08
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:02:41
+Server Started:
+
+06/19/2016 15:02:42
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:03:34
+Server Started:
+
+06/19/2016 15:03:35
+
+______________________________________________
+
+Waiting for clients ...
+No Client was found to attempt connecting to this computer
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:03:48
+Server Started:
+
+06/19/2016 15:03:49
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:06:38
+Server Started:
+
+06/19/2016 15:06:38
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:10:13
+Server Started:
+
+06/19/2016 15:10:13
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:12:48
+Server Started:
+
+06/19/2016 15:12:48
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:16:18
+Server Started:
+
+06/19/2016 15:16:18
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:26:05
+Server Started:
+
+06/19/2016 15:26:05
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:36:49
+Server Started:
+
+06/19/2016 15:36:50
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:40:56
+Server Started:
+
+06/19/2016 15:40:56
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 15:46:15
+Server Started:
+
+06/19/2016 15:46:15
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "SAJalali" computer with ip "192.168.105.217" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 16:21:07
+Server Started:
+
+06/19/2016 16:21:07
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 16:23:26
+Server Started:
+
+06/19/2016 16:23:26
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 16:25:27
+Server Started:
+
+06/19/2016 16:25:27
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 16:34:58
+Server Started:
+
+06/19/2016 16:34:58
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 17:07:19
+Server Started:
+
+06/19/2016 17:07:19
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 17:08:54
+Server Started:
+
+06/19/2016 17:08:54
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/19/2016 17:16:29
+Server Started:
+
+06/19/2016 17:16:29
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.106.245" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 13:02:57
+Server Started:
+
+06/20/2016 13:02:57
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 20:40:34
+Server Started:
+
+06/20/2016 20:40:34
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 22:53:48
+Server Started:
+
+06/20/2016 22:53:48
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 22:55:32
+Server Started:
+
+06/20/2016 22:55:32
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:02:03
+Server Started:
+
+06/20/2016 23:02:03
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:04:08
+Server Started:
+
+06/20/2016 23:04:08
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:05:01
+Server Started:
+
+06/20/2016 23:05:01
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:08:33
+Server Started:
+
+06/20/2016 23:08:33
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:09:42
+Server Started:
+
+06/20/2016 23:09:42
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:16:12
+Server Started:
+
+06/20/2016 23:16:12
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:18:26
+Server Started:
+
+06/20/2016 23:18:26
+
+______________________________________________
+
+Waiting for clients ...
+No Client was found to attempt connecting to this computer
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:18:44
+Server Started:
+
+06/20/2016 23:18:44
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:27:53
+Server Started:
+
+06/20/2016 23:27:53
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:33:47
+Server Started:
+
+06/20/2016 23:33:47
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:38:23
+Server Started:
+
+06/20/2016 23:38:23
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:42:26
+Server Started:
+
+06/20/2016 23:42:26
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:49:34
+Server Started:
+
+06/20/2016 23:49:34
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:52:21
+Server Started:
+
+06/20/2016 23:52:21
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:52:50
+Server Started:
+
+06/20/2016 23:52:50
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/20/2016 23:56:21
+Server Started:
+
+06/20/2016 23:56:21
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:07:43
+Server Started:
+
+06/21/2016 00:07:43
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:08:24
+Server Started:
+
+06/21/2016 00:08:24
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:10:13
+Server Started:
+
+06/21/2016 00:10:13
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:12:04
+Server Started:
+
+06/21/2016 00:12:04
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:14:20
+Server Started:
+
+06/21/2016 00:14:20
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:30:12
+Server Started:
+
+06/21/2016 00:30:12
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:35:28
+Server Started:
+
+06/21/2016 00:35:28
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:45:04
+Server Started:
+
+06/21/2016 00:45:04
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:50:40
+Server Started:
+
+06/21/2016 00:50:40
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:51:25
+Server Started:
+
+06/21/2016 00:51:25
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 00:54:49
+Server Started:
+
+06/21/2016 00:54:49
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:07:09
+Server Started:
+
+06/21/2016 01:07:10
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:07:53
+Server Started:
+
+06/21/2016 01:07:53
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:12:38
+Server Started:
+
+06/21/2016 01:12:38
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:13:50
+Server Started:
+
+06/21/2016 01:13:50
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:20:23
+Server Started:
+
+06/21/2016 01:20:23
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:47:15
+Server Started:
+
+06/21/2016 01:47:15
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 01:49:32
+Server Started:
+
+06/21/2016 01:49:32
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:30:52
+Server Started:
+
+06/21/2016 02:30:52
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:32:46
+Server Started:
+
+06/21/2016 02:32:46
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:40:46
+Server Started:
+
+06/21/2016 02:40:46
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:42:05
+Server Started:
+
+06/21/2016 02:42:05
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:43:30
+Server Started:
+
+06/21/2016 02:43:30
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:44:03
+Server Started:
+
+06/21/2016 02:44:03
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:47:40
+Server Started:
+
+06/21/2016 02:47:40
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:50:37
+Server Started:
+
+06/21/2016 02:50:37
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:52:00
+Server Started:
+
+06/21/2016 02:52:00
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 02:54:05
+Server Started:
+
+06/21/2016 02:54:05
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 11:35:38
+Server Started:
+
+06/21/2016 11:35:38
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 11:43:08
+Server Started:
+
+06/21/2016 11:43:08
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+06/21/2016 11:52:54
+Server Started:
+
+06/21/2016 11:52:54
+
+______________________________________________
+
+Waiting for clients ...
+Connection established to "DESKTOP-BLV27HB" computer with ip "192.168.75.1" at port "0"
+Successfully connected to 1 clients
+--------------------------------------- END OF SESSION -------------------------------------
+
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:05:18
+Waiting for clients ...
+failed to connect to clients; exiting
+--------------------------------------- END OF SESSION -------------------------------------
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:08:44
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:10:58
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:13:41
+Waiting for clients ...
+failed to connect to clients; exiting
+--------------------------------------- END OF SESSION -------------------------------------
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:13:58
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:15:42
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:19:15
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:37:46
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:39:16
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:50:23
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:52:17
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:53:20
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:56:06
+Waiting for clients ...
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 19:57:55
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+Client SAJalali is running with 3 cores
+New job (model= RCMRF-5, record= 1, IM= 0.1) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 20:01:38
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+Client SAJalali is running with 3 cores
+New job (model= RCMRF-5, record= 1, IM= 0.1) was sent to SAJalali computer
+-------------------------------------------------------------------
+Server Started:
+07/02/2016 20:04:58
+Waiting for clients ...
+Successfully connected to client SAJalali with ip 192.168.105.76 at port 0
+Successfully connected to 1 clients
+New job (model= RCMRF-5, record= 1, IM= 0.05) was sent to SAJalali computer
+Client SAJalali is running with 3 cores
+New job (model= RCMRF-5, record= 1, IM= 0.1) was sent to SAJalali computer
+New job (model= RCMRF-5, record= 1, IM= 0.2) was sent to SAJalali computer
+New job (model= RCMRF-5, record= 1, IM= 0.35) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.05)
+New job (model= RCMRF-5, record= 1, IM= 0.55) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.1)
+New job (model= RCMRF-5, record= 1, IM= 0.8) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.2)
+New job (model= RCMRF-5, record= 1, IM= 1.1) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.35)
+New job (model= RCMRF-5, record= 1, IM= 1.45) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.55)
+New job (model= RCMRF-5, record= 1, IM= 1.85) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 0.8)
+New job (model= RCMRF-5, record= 1, IM= 2.3) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 1.1)
+New job (model= RCMRF-5, record= 1, IM= 2.8) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 1.45)
+New job (model= RCMRF-5, record= 1, IM= 3.35) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 1.85)
+New job (model= RCMRF-5, record= 1, IM= 3.95) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 2.3)
+New job (model= RCMRF-5, record= 1, IM= 4.6) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 2.8)
+New job (model= RCMRF-5, record= 1, IM= 5.3) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 3.35)
+New job (model= RCMRF-5, record= 1, IM= 6.05) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 3.95)
+New job (model= RCMRF-5, record= 1, IM= 6.85) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 4.6)
+New job (model= RCMRF-5, record= 1, IM= 7.7) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 5.3)
+New job (model= RCMRF-5, record= 1, IM= 4.83333333333333) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 6.05)
+New job (model= RCMRF-5, record= 1, IM= 4.275) was sent to SAJalali computer
+New result (model= RCMRF-5, record= 1, IM= 6.85)
+-------------------------------------------------------------------
+Server Started:
+07/09/2016 07:20:06
+Waiting for clients ...
+failed to connect to clients; exiting
+--------------------------------------- END OF SESSION -------------------------------------
+-------------------------------------------------------------------
+Server Started:
+07/09/2016 22:41:00
+-------------------------------------------------------------------
+Server Started:
+07/09/2016 22:42:09
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:30:07
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:32:59
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:34:14
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:38:08
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:39:18
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:43:11
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:45:13
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:46:28
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:47:38
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 09:51:50
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 10:01:02
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 10:04:30
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 10:08:52
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 11:01:42
+Waiting for clients ...
+failed to connect to clients; exiting
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 11:03:15
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 11:15:11
+-------------------------------------------------------------------
+Server Started:
+07/10/2016 11:19:52
+-------------------------------------------------------------------
+Server Started:
+07/12/2016 15:54:00
+Waiting for clients ...
+
+failed to connect to clients
+
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 15:47:07
+failed to connect to clients
+
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 15:55:47
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:10:47
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:12:47
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:13:48
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:29:49
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:32:13
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:32:58
+-------------------------------------------------------------------
+Server Started:
+06/02/2020 16:42:21

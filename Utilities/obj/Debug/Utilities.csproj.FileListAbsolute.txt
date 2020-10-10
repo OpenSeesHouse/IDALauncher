@@ -1,0 +1,5 @@
+D:\programming\IDALauncher\Utilities\bin\Debug\Utilities.dll
+D:\programming\IDALauncher\Utilities\bin\Debug\Utilities.pdb
+D:\programming\IDALauncher\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\programming\IDALauncher\Utilities\obj\Debug\Utilities.dll
+D:\programming\IDALauncher\Utilities\obj\Debug\Utilities.pdb

@@ -41,8 +41,9 @@ D:\programming\IDALauncher\bin\Debug\IDALauncher.exe.config
 D:\programming\IDALauncher\bin\Debug\IDALauncher.exe
 D:\programming\IDALauncher\bin\Debug\IDALauncher.pdb
 D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csprojAssemblyReference.cache
-D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Form1.resources
 D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.Properties.Resources.resources
 D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.GenerateResource.cache
 D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.exe
 D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.pdb
+D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.csproj.CopyComplete
+D:\programming\IDALauncher\IDALauncher\obj\Debug\IDALauncher.LauncForm.resources

@@ -1,0 +1,8 @@
+D:\programming\IDALauncher\IDALib\bin\Debug\IDALib.dll
+D:\programming\IDALauncher\IDALib\bin\Debug\IDALib.pdb
+D:\programming\IDALauncher\IDALib\obj\Debug\IDALib.csprojAssemblyReference.cache
+D:\programming\IDALauncher\IDALib\obj\Debug\IDALib.dll
+D:\programming\IDALauncher\IDALib\obj\Debug\IDALib.pdb
+D:\programming\IDALauncher\IDALib\bin\Debug\Utilities.dll
+D:\programming\IDALauncher\IDALib\bin\Debug\Utilities.pdb
+D:\programming\IDALauncher\IDALib\obj\Debug\IDALib.csproj.CopyComplete

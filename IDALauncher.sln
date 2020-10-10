@@ -7,6 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullSingleThreadIDA", "Full
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDALauncher", "IDALauncher\IDALauncher.csproj", "{9B525049-52AA-4DD1-A197-208DEB98680B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{D6B39601-5B5D-4CBE-A6DE-32349CFA4899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruncMultiThreadIDA", "TruncMultiThreadIDA\TruncMultiThreadIDA.csproj", "{73770602-C1B9-4B4B-8EF9-E7BAE2113E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruncSingleThreadIDA", "TruncSingleThreadIDA\TruncSingleThreadIDA.csproj", "{EB1F7F15-4ACF-48FC-9013-2AED267A3137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDALib", "IDALib\IDALib.csproj", "{280205EE-185D-4011-955C-81E85CB82B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDAClient", "IDAClient\IDAClient.csproj", "{4B65397A-F1D9-4851-BFC3-53BCF217DA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDAServer", "IDAServer\IDAServer.csproj", "{52F77F1F-97DB-4772-9C81-57F17B9E701A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +33,30 @@ Global
 		{9B525049-52AA-4DD1-A197-208DEB98680B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B525049-52AA-4DD1-A197-208DEB98680B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B525049-52AA-4DD1-A197-208DEB98680B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B39601-5B5D-4CBE-A6DE-32349CFA4899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B39601-5B5D-4CBE-A6DE-32349CFA4899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B39601-5B5D-4CBE-A6DE-32349CFA4899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B39601-5B5D-4CBE-A6DE-32349CFA4899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73770602-C1B9-4B4B-8EF9-E7BAE2113E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73770602-C1B9-4B4B-8EF9-E7BAE2113E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73770602-C1B9-4B4B-8EF9-E7BAE2113E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73770602-C1B9-4B4B-8EF9-E7BAE2113E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1F7F15-4ACF-48FC-9013-2AED267A3137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1F7F15-4ACF-48FC-9013-2AED267A3137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1F7F15-4ACF-48FC-9013-2AED267A3137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1F7F15-4ACF-48FC-9013-2AED267A3137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280205EE-185D-4011-955C-81E85CB82B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280205EE-185D-4011-955C-81E85CB82B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280205EE-185D-4011-955C-81E85CB82B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280205EE-185D-4011-955C-81E85CB82B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B65397A-F1D9-4851-BFC3-53BCF217DA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B65397A-F1D9-4851-BFC3-53BCF217DA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B65397A-F1D9-4851-BFC3-53BCF217DA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B65397A-F1D9-4851-BFC3-53BCF217DA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F77F1F-97DB-4772-9C81-57F17B9E701A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F77F1F-97DB-4772-9C81-57F17B9E701A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F77F1F-97DB-4772-9C81-57F17B9E701A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F77F1F-97DB-4772-9C81-57F17B9E701A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

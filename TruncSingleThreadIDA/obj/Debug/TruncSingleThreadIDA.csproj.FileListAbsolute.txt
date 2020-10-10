@@ -1,0 +1,17 @@
+D:\programming\IDALauncher\bin\Debug\TruncSingleThreadIDA.exe.config
+D:\programming\IDALauncher\bin\Debug\TruncSingleThreadIDA.exe
+D:\programming\IDALauncher\bin\Debug\TruncSingleThreadIDA.pdb
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncSingleThreadIDA.csprojAssemblyReference.cache
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\IDALauncher.TruncSTForm.resources
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\IDALauncher.Properties.Resources.resources
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncSingleThreadIDA.csproj.GenerateResource.cache
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncSingleThreadIDA.csproj.CopyComplete
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncSingleThreadIDA.exe
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncSingleThreadIDA.pdb
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\TruncSingleThreadIDA.csprojAssemblyReference.cache
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\IDALauncher.TruncSTForm.resources
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\IDALauncher.Properties.Resources.resources
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\TruncSingleThreadIDA.csproj.GenerateResource.cache
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\TruncSingleThreadIDA.csproj.CopyComplete
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\TruncSingleThreadIDA.exe
+D:\programming\IDALauncher\TruncSingleThreadIDA\obj\Debug\TruncSingleThreadIDA.pdb

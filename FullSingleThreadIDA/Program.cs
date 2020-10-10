@@ -61,28 +61,7 @@ namespace IDALauncher
                 return;
 
             }
-            try
-            {
-                numPnts = Convert.ToInt16(argv[3], System.Globalization.CultureInfo.InvariantCulture);
-            }
-            catch
-            {
-                MessageBox.Show("Unacceptable numPnts", "Error", MessageBoxButtons.OK);
-                return;
-            }
-            switch (argv[4])
-            {
-                case "0":
-                    goFill = false;
-                    break;
-                case "1":
-                    goFill = true;
-                    break;
-                default:
-                    MessageBox.Show("Unacceptable numPnts", "Error", MessageBoxButtons.OK);
-                    return;
-            }
-            var recStrs = argv[5].Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+            var recStrs = argv[3].Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
             List<int> recordList;
             recordList = new List<int>(recStrs.Length);
             foreach (var recStr in recStrs)
@@ -97,7 +76,28 @@ namespace IDALauncher
                     return;
                 }
             }
-            var theForm = new Form1(saStart, saStep, saStepIncr, numPnts, goFill, recordList, argv[6], argv[7]);
+            try
+            {
+                numPnts = Convert.ToInt16(argv[4], System.Globalization.CultureInfo.InvariantCulture);
+            }
+            catch
+            {
+                MessageBox.Show("Unacceptable numPnts", "Error", MessageBoxButtons.OK);
+                return;
+            }
+            switch (argv[5])
+            {
+                case "0":
+                    goFill = false;
+                    break;
+                case "1":
+                    goFill = true;
+                    break;
+                default:
+                    MessageBox.Show("Unacceptable numPnts", "Error", MessageBoxButtons.OK);
+                    return;
+            }
+            var theForm = new FullSTForm(saStart, saStep, saStepIncr, numPnts, goFill, recordList, argv[6], argv[7]);
 
             /*var tclFile = @"E:\Research\Dr Mansouri\Damper paper\new models\MRF-4\runNTH.tcl";
             var theForm = new Form1(0.05, 0.05, 0.05, 20, true, new List<int>() { 1 }, tclFile, @"C:\Users\User\Desktop\tmp\OpenSees.exe");*/

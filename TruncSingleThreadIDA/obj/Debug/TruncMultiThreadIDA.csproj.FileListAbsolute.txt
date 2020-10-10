@@ -1,0 +1,10 @@
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncMultiThreadIDA.csprojAssemblyReference.cache
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\IDALauncher.Form1.resources
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\IDALauncher.Properties.Resources.resources
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncMultiThreadIDA.csproj.GenerateResource.cache
+D:\programming\IDALauncher\bin\Debug\TruncMultiThreadIDA.exe.config
+D:\programming\IDALauncher\bin\Debug\TruncMultiThreadIDA.exe
+D:\programming\IDALauncher\bin\Debug\TruncMultiThreadIDA.pdb
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncMultiThreadIDA.csproj.CopyComplete
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncMultiThreadIDA.exe
+D:\programming\IDALauncher\TruncMultiThreadIDA\obj\Debug\TruncMultiThreadIDA.pdb
